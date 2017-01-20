@@ -4,7 +4,7 @@ type: project
 image: images/vacay-square.png
 title: Student Immunization Initiative site upgrade. 
 permalink: projects/sii-website
-date: 2016-present
+date: 2016
 labels:
   - Wordpress
   - PHP
