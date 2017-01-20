@@ -4,7 +4,7 @@ type: project
 image: images/sii-hawaii.jpg
 title: Student Immunization Initiative site upgrade 
 permalink: projects/sii-website
-date: 2016-2017
+date: 2017
 labels:
   - Wordpress
   - PHP
