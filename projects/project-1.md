@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sii-hawaii.jpg
+image: images/vacay-square.png
 title: Student Immunization Initiative site upgrade. 
 permalink: projects/sii-website
 date: 2016-present
