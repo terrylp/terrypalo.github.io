@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/project-black.jpg
-title: Cotton
+title: "Project Black"
 permalink: projects/cotton
 date: 2016
 labels:
   - C#
   - BitBucket
   - Unity3D
-summary: Independent Video Game. "Project Black"
+summary: Independent Video Game in development by a group of students from UH Manoa.
 ---
 ## Summary
 Co-leader of a very diverse group of 8 people, including a story writer, graphic artists, and programmers. 
