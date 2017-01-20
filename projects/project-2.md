@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sii-hawaii.jpg
+image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
 date: 2015
