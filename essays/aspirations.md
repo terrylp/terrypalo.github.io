@@ -14,6 +14,5 @@ As a passionate computer science student, I genuinely enjoy learning new technol
 
 
 ## Goals
-
 I would like to have a career in some sort of development, whether it be Software Development, Game Development or Web Development.  My overall personal goal is to find a career that helps and thoroughly benefits society as a result of my contributions. In the future, I hope to develop my communications skills as well as my skills with the development of different technologies. I would like to further develop my communications skills because communication is very important in all aspects of life.
 
