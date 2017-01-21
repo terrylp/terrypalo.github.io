@@ -24,7 +24,7 @@ Another thing I typically do is compare a language to another language. For exam
 <img class="ui medium right spaced image" src="../images/java-comparison.png">
 
 
-### Cool Things I noticed
+### Cool Things I Noticed
 While writing some JavaScript I noticed I forgot a semicolon at the end of the line, and the weird part is that I realized this after I successfully ran it. Digging a little bit deeper I found that semicolons are semi optional. For example, you do not have to write a semicolon at the end of the line if the line breaks:
 
 ```
