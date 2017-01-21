@@ -35,5 +35,7 @@ I think this is really cool, because again, it allows for less mistakes when you
 
 Another thing I found interesting is that there is a single variable type you can use to create variables, which is called "var". Although, my professor in my Software Engineering class has told us to simply use "let" and "const" for our variables, I still think its a cool concept to have a single variable type for everything.  
 
+<img class="ui tiny right spaced image" src="../images/mind-blown.gif">
+
 ## My Overall Consensus
 I really like JavaScript currently, and I can totally see it applicable to a few personal projects I have in mind. I really like how the language is native to the web browser and can easily be picked up to accomplish a quick task. I also appreciate the standard built-in objects that the language offers, it allows for the programmer to tailor the language to how they see fit. I think that JavaScript would be a good language for someone totally new to programmming to pick up. It allows the person to quickly grasp the concept of programming without being punished harshly by syntax.  
