@@ -9,7 +9,7 @@ labels:
 ---
 
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/code sample.jpg">
 
 ## Jumping Straight In
 I've always heard that JavaScript was a great language to learn
