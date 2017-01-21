@@ -21,7 +21,7 @@ Typically, when I jump into a new language I judge it by 2 things: 1. How many l
 ### In Comparison to Other Languages
 Another thing I typically do is compare a language to another language. For example, I compare C# syntax and style to a combination of C++ and Java. Oddly enough, for JavaScript I like to compare this language to a combination of Python and, you guessed it, Java. The reason why I compare it to Python is because of the shear simplicity of the language (in terms of syntax and basic functionality). A common characteristic that Python and JavaScript have is the "Hello World" one liner. In Python, it is: `print "Hello World"`, and in JavaScript, `console.log("Hello World")`, as I mentioned earlier. Another cool characteristic I found with JavaScript that is the similar to Python is that function parameters do not have any variable types. In JavaScript you type `function Sum(argumentOne, argumentTwo)`, and in Python it would be `def Sum(argumentOne, argumentTwo)`. Personally, I like this because it allows for less mistakes to be made when youre trying to write a quick, small program. Even though there is absolutely no correlation from Java to JavaScript, which is pretty weird considering the name, I still compare JavaScript to Java because of the style and syntax of the language. While doing the exercises on Free Code Camp, I noticed that much of the pre written snippets of code looked very familiar, I thought a little bit deeper and realized "Oh! this looks like Java!" 
 
-<img class="ui tiny right spaced image" src="../images/java-javascript.png">
+<img class="ui tiny right spaced image" src="../images/java-comparison.png">
 
 
 ### Cool Things I noticed
