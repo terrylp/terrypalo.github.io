@@ -24,7 +24,8 @@ While writing some Javascript I noticed I forgot a semicolon at the end of the l
 ```
 var i // Semicolon optional
 i++   // Semicolon optional
-var j; j++ // first statement required, second not required since the line breaks
+var j; j++ // first statement required, 
+           // second not required since the line breaks
 ```
 
 I think this is really cool, because again, it allows for less mistakes when you are trying to write a quick program to do something. 
