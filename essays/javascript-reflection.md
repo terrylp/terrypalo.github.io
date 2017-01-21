@@ -9,7 +9,7 @@ labels:
 ---
 
 
-<img class="ui tiny right spaced image" src="../images/code sample.jpg">
+<img class="ui medium right spaced image" src="../images/code sample.jpg">
 
 ## Jumping Straight In
 I've always heard that JavaScript was a great language to learn
@@ -21,7 +21,7 @@ Typically, when I jump into a new language I judge it by 2 things: 1. How many l
 ### In Comparison to Other Languages
 Another thing I typically do is compare a language to another language. For example, I compare C# syntax and style to a combination of C++ and Java. Oddly enough, for JavaScript I like to compare this language to a combination of Python and, you guessed it, Java. The reason why I compare it to Python is because of the shear simplicity of the language (in terms of syntax and basic functionality). A common characteristic that Python and JavaScript have is the "Hello World" one liner. In Python, it is: `print "Hello World"`, and in JavaScript, `console.log("Hello World")`, as I mentioned earlier. Another cool characteristic I found with JavaScript that is the similar to Python is that function parameters do not have any variable types. In JavaScript you type `function Sum(argumentOne, argumentTwo)`, and in Python it would be `def Sum(argumentOne, argumentTwo)`. Personally, I like this because it allows for less mistakes to be made when youre trying to write a quick, small program. Even though there is absolutely no correlation from Java to JavaScript, which is pretty weird considering the name, I still compare JavaScript to Java because of the style and syntax of the language. While doing the exercises on Free Code Camp, I noticed that much of the pre written snippets of code looked very familiar, I thought a little bit deeper and realized "Oh! this looks like Java!" 
 
-<img class="ui tiny right spaced image" src="../images/java-comparison.png">
+<img class="ui medium right spaced image" src="../images/java-comparison.png">
 
 
 ### Cool Things I noticed
@@ -38,7 +38,7 @@ I think this is really cool, because again, it allows for less mistakes when you
 
 Another thing I found interesting is that there is a single variable type you can use to create variables, which is called "var". Although, my professor in my Software Engineering class has told us to simply use "let" and "const" for our variables, I still think its a cool concept to have a single variable type for everything.  
 
-<img class="ui tiny right spaced image" src="../images/mind-blown.gif">
+<img class="ui medium right spaced image" src="../images/mind-blown.gif">
 
 ## My Overall Consensus
 I really like JavaScript currently, and I can totally see it applicable to a few personal projects I have in mind. I really like how the language is native to the web browser and can easily be picked up to accomplish a quick task. I also appreciate the standard built-in objects that the language offers, it allows for the programmer to tailor the language to how they see fit. I think that JavaScript would be a good language for someone totally new to programmming to pick up. It allows the person to quickly grasp the concept of programming without being punished harshly by syntax.  
