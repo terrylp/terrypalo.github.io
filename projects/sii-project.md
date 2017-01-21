@@ -18,6 +18,15 @@ The Student Immunization Initiative (SII) Registered Independent Organization (R
 We Decided to use GitHub for our source control and Amazon Web Services (AWS) to host a remote development site. We are also using Docker for a Wordpress container to continuously develop features while actively seeing feedback.
 
 
+Here is a picture before upgrading:
+
+<img class="ui image" src="../images/sii-hawaii-before.jpg">
+
+
+
+and here is a picture after
+
+<img class="ui image" src="../images/sii-hawaii.jpg">
 
 Here is the link to SII's website  [SII HAWAII](https://siihawaii.org/).
 
