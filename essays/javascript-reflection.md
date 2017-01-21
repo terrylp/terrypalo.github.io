@@ -8,7 +8,8 @@ labels:
   - Reflection/Review
 ---
 
-<img class="ui medium right floated rounded image" src="../images/code-sample.jpg">
+
+<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 ## Jumping Straight In
 I've always heard that JavaScript was a great language to learn
