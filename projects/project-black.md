@@ -12,7 +12,7 @@ labels:
 summary: Independent Video Game in development by a group of students from UH Manoa.
 ---
 ## Summary
-Co-leader of a very diverse group of 8 people, including a story writer, graphic artists, and programmers.
+Co-leader of a very diverse group of 8 people, including a story writer, concept artists, and programmers.
 I assist and contribute to level/mechanic design as well as C# scripting.
 
 ### Specifics
@@ -22,3 +22,5 @@ As co-leader,  I am responsible for assisting with weekly meeting times to estab
 The game is currently being built in the Unity3D engine for a 2D environment. BitBucket is being used as our main version control tool. The game includes a main character a long lasting plot, many zones to explore, and different interesting abilities to experience. 
 
 A general goal for our game is to allow for a fun, well-flowing 2D experience experience that engages the player while not being boring, but not being tpo difficult (too quickly) at the same time. 
+
+For confidentiality of the game, I will not give specifics on the plot or mechanics, but here is some early concept art work done by a one of our concept artists.
