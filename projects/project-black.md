@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project-black.jpg
 title: "Project Black"
-permalink: projects/cotton
+permalink: projects/project-black
 date: 2016
 labels:
   - C#
