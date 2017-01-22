@@ -24,3 +24,9 @@ The game is currently being built in the Unity3D engine for a 2D environment. Bi
 A general goal for our game is to allow for a fun, well-flowing 2D experience experience that engages the player while not being boring, but not being tpo difficult (too quickly) at the same time. 
 
 For confidentiality of the game, I will not give specifics on the plot or mechanics, but here is some early concept art work done by a one of our concept artists.
+
+<img class="ui image" src="../images/concept-1.jpg">
+<img class="ui image" src="../images/concept-2.jpg">
+<img class="ui image" src="../images/concept-3.jpg">
+
+
