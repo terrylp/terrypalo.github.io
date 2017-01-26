@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Aspirations of a Computer Science Student 
+title: yuh
 date: 2017-01-20
 labels:
   - My interests
