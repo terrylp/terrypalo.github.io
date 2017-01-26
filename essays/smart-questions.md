@@ -19,5 +19,5 @@ While browsing for the worst possible StackOverflow question I could find, I eve
 
 Here is a picture of the original posting
 
-<img class="ui medium left floated image" src="../images/bad-example.png">
+<img class="ui large left floated image" src="../images/bad-example.png">
 
