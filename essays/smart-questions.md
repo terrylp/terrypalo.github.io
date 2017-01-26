@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "StackOverflow: not your "
+title: "StackOverflow: Not your personal Tech Assistance team"
 date: 2017-01-20
 labels:
   - My interests
