@@ -27,10 +27,7 @@ After reading Raymond's principles and comparing it to this, I can easily see th
 
 
 
-<img class="ui large floated image" src="../images/smh.gif">
-
-
-
+<img class="ui medium right spaced image" src="../images/smh.gif">
 
 
 ## What you SHOULD do
