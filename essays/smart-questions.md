@@ -9,7 +9,7 @@ labels:
   - Reflection/Review
 ---
 
-I am sure we have all faced a brick wall while working on a programming project and opened up a browser go to google and frantically type *HOW TO FIX X* and found EXACTLY what we were looking for on StackOverflow. But on the contrary, some of us have had those moments where we were *REALLY* stuck and either had to a) ask a friend or b) ask a stranger on StackOverflow.
+I am sure we have all faced a brick wall while working on a programming project. Many times we have simply solved our problems by opening up a browser going to google and frantically typing *HOW TO FIX X* and found EXACTLY what we were looking for on StackOverflow. But on the contrary, some of us have had those moments where we were *REALLY* stuck and either had to a) ask a friend or b) ask a stranger on StackOverflow.
 
 Being honest, have you *actually* put effort into how you ask, or even what you ask a question about? The answer is probably no, but you probably should. 
 
