@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Git: Keeping you from going insane (kind of)"
-date: 2017-01-20
+date: 2017-01-31
 labels:
   - Git
   - GitHub
