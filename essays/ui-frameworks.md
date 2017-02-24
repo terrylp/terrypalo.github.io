@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 'Semantic UI: A 'container' full of useful tools'
+title: 'Semantic UI: A CONTAINER full of useful tools'
 date: 2017-02-08
 labels:
   - "Web Development"
