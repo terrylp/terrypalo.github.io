@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: 'Semantic UI: A CONTAINER full of useful tools'
-date: 2017-02-08
+date: 2017-02-23
 labels:
   - "Web Development"
   - "Front end Frameworks"
