@@ -22,6 +22,7 @@ There are a few downsides to using Meteor that have ultimately become a dealbrea
 
 ### Speed
 The first one is how long it takes to start up a meteor application. I find myself sitting and staring into space while the meteor application is trying to start up. It takes even longer the first time you run it because you have to `meteor npm install` all the node modules pertaining to the application and then you have to `meteor npm run start` the application and wait until it shows up on http://localhost:3000/. Although this may not be an issue for some people, to me it is an annoyance to have to wait for everything to start up just a very simple and basic web application (can you imagine if it was a massive project?).
+<img class="ui right spaced image" src="../images/waiting-on-meteor.gif">
 
 ### Compatibility
 Although this may be an issue with many development frameworks, this is still a downside to Meteor. When running meteor on a windows machine, many problems tend to rise and solutions to many of these problems are quite literally "Install Linux or buy a Macbook." 
