@@ -30,7 +30,7 @@ Although this may be an issue with many development frameworks, this is still a 
 This was the absolute dealbreaker for me with Meteor. Since Meteor is still fairly new and it is continuously growing rapidly, many modules and ways-of-doing-things are deprecated. I noticed this issue when I participated in the 2017 AT&T Hackathon not too long ago. My team and I decided to build a web app in Meteor when none of us had much experience with it. We sat there and googled many of the issues we were having and to my surprise many of the solutions were deprecated. I asked myself "I thought Meteor was super popular? Why cant I find solutions to these seemingly simple problems?". It wasn't until after the Hackathon I found out how little community support there is currently. 
 
 Here is an image comparing other popular frameworks with Meteor:
-<img class="ui medium right spaced image" src="../images/compare-meteor.png">
+<img class="ui right spaced image" src="../images/compare-meteor.png">
 
 The main thing I noticed about these comparisons was the amount of stackoverflow questions. I feel like this is a good indicator of how much support there is by the community so you can find a solution to a problem quickly and easily. You can see that there are only 25.3K for Meteor and 270K for Ruby on Rails. There are more than 10x questions for Rails than there is for Meteor. But, on the contrary, there is alot of activity on the Meteor GitHub Repository, which is a good indicator of how it is growing. 
 
