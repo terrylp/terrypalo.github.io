@@ -27,7 +27,7 @@ This poses an issue, in my opinion, because this doesn't directly benefit those 
 
 Kind of scary, really.
 
-<img class=”ui medium right spaced image” src=”./images/noway.gif”>
+<img class="ui medium right spaced image" src="../images/noway.gif">
 
 ## Conclusion 
 In conclusion, I think that Software Engineers should take an extra step to ask themselves whether doing something is ethical. The main reason for this is because there are so many things that Software is capable of doing and many of those things are unethical and only benefit one party.
