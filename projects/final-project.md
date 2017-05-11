@@ -9,7 +9,6 @@ labels:
   - Meteor
   - Semantic
   - MongoDB
-  - 
 summary: Final project for ICS 314 aimed at solving the problem of wasted money on meal plans at UH Manoa.
 ---
 Manoa Dining Delivery was an idea that was initially just creating a food delivery service for students who dorm at UH Manoa, but was expanded to solve the issue of money being wasted weekly on junk food.
@@ -35,7 +34,7 @@ I also contributed by creating the overall design of the frontend and backend.
 
 
 Here is a picture of the site:
-<img class="ui image" src="../images/mdd.jpg">
+<img class="ui image" src="../images/mdd.png">
 
 
 
