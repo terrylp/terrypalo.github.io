@@ -33,11 +33,11 @@ Therefore, a JWT typically looks like the following.
 
 and as an example: 
 
-<img class="ui medium right spaced image" src="https://cdn.auth0.com/content/jwt/encoded-jwt3.png">
+<img class="ui right spaced image" src="https://cdn.auth0.com/content/jwt/encoded-jwt3.png">
 
 Decoding the JWT will provide data as a JSON object.
 
-<img class="ui medium right spaced image" src="https://cdn.auth0.com/blog/legacy-app-auth/legacy-app-auth-5.png">
+<img class="ui right spaced image" src="https://cdn.auth0.com/blog/legacy-app-auth/legacy-app-auth-5.png">
 
 ## How I'm using JWT's in my application
 Since I am building a REST API with Django Rest Framework, I decided to look for packages that would possibly make my life easier to implement JWT. I gave [this](https://github.com/GetBlimp/django-rest-framework-jwt) a shot. Although the documentation isnt extremely helpful, it did help me get it up and running within an hour. The package is actually well built. It's super simple to use (from what I can see so far), and is really secure. 
