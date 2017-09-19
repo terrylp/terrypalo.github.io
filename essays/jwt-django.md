@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Keeping your APIs one step at a time."
+title: "Keeping your APIs authenticated one step at a time."
 date: 2017-09-17
 labels:
   - Django
@@ -22,7 +22,7 @@ JWT provide a way to securely transmit JSON objects with information between two
 Taken from https://jwt.io:
 
 JSON Web Tokens consist of three parts separated by dots (.), which are:
-
+terr
 - Header
 - Payload
 - Signature
