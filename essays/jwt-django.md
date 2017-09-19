@@ -22,7 +22,7 @@ JWT provide a way to securely transmit JSON objects with information between two
 Taken from https://jwt.io:
 
 JSON Web Tokens consist of three parts separated by dots (.), which are:
-terr
+
 - Header
 - Payload
 - Signature
