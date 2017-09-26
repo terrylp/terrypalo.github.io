@@ -105,4 +105,5 @@ The problem I have is that I need to update 2 models when someone makes a post r
 So the goal for this week is to figure it out and create a superior API.
 
 <img class="ui right spaced image" src="https://m.popkey.co/96857f/oGkQD.gif">
+
 (Me charging towards this bug)
