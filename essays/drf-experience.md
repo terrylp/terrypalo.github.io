@@ -11,15 +11,15 @@ labels:
 ## Introduction
 As discussed last week in my previous writing, I'm assigned a project currently where I have to create a REST API for a Django application that I have made previously. 
 
-This project is interesting because I'm adding a REST API to an already full stack Django Application. From what I've noticed, its usually one or the other. Theres either a full stack Django application or just a REST API built by Django Rest Framework. 
+This project is interesting because I'm adding a REST API to an already full stack Django Application. From what I've noticed, its usually one or the other. There’s either a full stack Django application or just a REST API built by Django Rest Framework. 
 
 <img class="ui right spaced image" src="http://www.django-rest-framework.org/img/logo.png">
 
 ## My Experience So Far
-Currently, the project is going pretty well. I've had to restructure the project slightly so I dont repeat myself. One of the main things I've had to restructure was the way services are handled in the application. 
+Currently, the project is going pretty well. I've had to restructure the project slightly so I don’t repeat myself. One of the main things I've had to restructure was the way services are handled in the application. 
 
 ### Restructuring
-In the original full stack project I had a file structure such as:
+In the original full stack project, I had a file structure such as:
 
 ```
 Django_project
@@ -100,20 +100,9 @@ Model B:
 
 So model A contains unique car names, and model B contains car_name as a foreign key to car_name in model A (for a many to one relationship). This will allow different people to be associated to a particular car name.
 
-The problem I have is that I need to update 2 models when someone makes a post request to create a new car_name. The way I'm approaching this is by creating a serializer to create the model when it recieves the raw data from a request. I just recently tried it out, and it seems to break every time. It might be because I dont fully understand how the viewsets and the serializers interact with eachother.
+The problem I have is that I need to update 2 models when someone makes a post request to create a new car_name. The way I'm approaching this is by creating a serializer to create the model when it receives the raw data from a request. I just recently tried it out, and it seems to break every time. It might be because I don’t fully understand how the viewsets and the serializers interact with each other.
 
 So the goal for this week is to figure it out and create a superior API.
 
 <img class="ui right spaced image" src="https://m.popkey.co/96857f/oGkQD.gif">
 (Me charging towards this bug)
-
-
-
-
-
-
-
-
-
-
-
