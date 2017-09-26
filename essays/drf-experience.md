@@ -92,11 +92,11 @@ One of the issues that I'm currently facing is that I have to update/create a mo
 For example, say we have:
 
 Model A:
-    - car_name
+    * car_name
 
 Model B:
-    - car_name
-    - person_name
+    * car_name
+    * person_name
 
 So model A contains unique car names, and model B contains car_name as a foreign key to car_name in model A (for a many to one relationship). This will allow different people to be associated to a particular car name.
 
