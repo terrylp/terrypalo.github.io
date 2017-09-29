@@ -49,7 +49,7 @@ Personal responsibilities to this project included:
 
 <img class="ui centered image" src="../images/hrs-feature.png">
 
-<div class="ui embed" data-url="https://www.youtube.com/watch?v=ysAzR5RSkQk"></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ysAzR5RSkQk" frameborder="0" allowfullscreen></iframe>
 
 Complete details on our [project](https://hacc17.devpost.com/submissions)
 
