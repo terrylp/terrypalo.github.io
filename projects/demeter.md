@@ -13,7 +13,7 @@ summary: Gamified plant monitoring system that won 1st Best IoT Solution at the 
 ---
 
 ## Summary
-Created a gamified plant monitoring system equipped with a Raspberry Pi along with light, temperature, and humidity sensors.
+Created a gamified plant monitoring system equipped with a Raspberry Pi along with light, temperature, and humidity sensors. Developed for the 2017 AT&T Hackathon in Honolulu, and ultimately won 2/8 awards.
 
 Features included:
 * Color coordinated plant health status
@@ -33,11 +33,20 @@ Personal responsibilities to this project included:
 
 ## The App Itself
 
-<div class="ui small images">
-  <img src="../images/demeter-home.png">
-  <img src="../images/demeter-profile.png">
-  <img src="../images/demeter-community.png">
+<div class="ui grid">
+  <div class="three column row">
+    <div class="column">
+        <img src="../images/demeter-home.png">
+    </div>
+    <div class="column">
+        <img src="../images/demeter-profile.png">
+    </div>
+    <div class="column">
+        <img src="../images/demeter-community.png">
+    </div>
+  </div>
 </div>
+
 
 
 
