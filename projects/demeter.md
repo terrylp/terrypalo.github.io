@@ -13,7 +13,7 @@ summary: Gamified plant monitoring system that won 1st Best IoT Solution at the 
 ---
 
 ## Summary
-Created a gamified plant monitoring system equipped with a Raspberry Pi along with light, temperature, and humidity sensors. Developed for the 2017 AT&T Hackathon in Honolulu, and ultimately won 2/8 awards.
+Created a gamified plant monitoring system equipped with a Raspberry Pi along with light, temperature, and humidity sensors. Developed for the 2017 AT&T Hackathon in Honolulu, and ultimately won 2/8 total awards.
 
 Features included:
 * Color coordinated plant health status
@@ -47,7 +47,7 @@ Personal responsibilities to this project included:
   </div>
 </div>
 
-
+Recap on the [2017 AT&T Hackathon](https://developer.att.com/blog/recap-hackathon-hawaii-2017)
 
 
 

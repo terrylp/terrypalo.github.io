@@ -25,8 +25,17 @@ A general goal for our game is to allow for a fun, well-flowing 2D experience ex
 
 For confidentiality of the game, I will not give specifics on the plot or mechanics, but here is some early concept artwork done by a one of our concept artists:
 
-<img class="ui image" src="../images/concept-1.jpg">
-<img class="ui image" src="../images/concept-2.jpg">
-<img class="ui image" src="../images/concept-3.jpg">
-**Credit to Kobi Furumoto from the University of Hawaii at Manoa**
+<div class="ui grid">
+  <div class="three column row">
+    <div class="column">
+        <img class="ui image" src="../images/concept-1.jpg">
+    </div>
+    <div class="column">
+        <img class="ui image" src="../images/concept-2.jpg">
+    </div>
+    <div class="column">
+       <img class="ui image" src="../images/concept-3.jpg">
+    </div>
+  </div>
+</div>
 
