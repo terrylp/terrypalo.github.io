@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/demeter-equal.png
-title: Student Immunization Initiative site upgrade 
+title: Demeter
 permalink: projects/Demeter
 date: 2017
 labels:
@@ -33,7 +33,7 @@ Personal responsibilities to this project included:
 
 ## The App Itself
 
-<div class="ui medium images">
+<div class="ui small images">
   <img src="../images/demeter-home.png">
   <img src="../images/demeter-profile.png">
   <img src="../images/demeter-community.png">
