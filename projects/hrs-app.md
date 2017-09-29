@@ -49,9 +49,11 @@ Personal responsibilities to this project included:
 
 <img class="ui centered image" src="../images/hrs-feature.png">
 
+<div class="ui embed" data-url="https://www.youtube.com/watch?v=ysAzR5RSkQk"></div>
 
 Complete details on our [project](https://hacc17.devpost.com/submissions)
 
-[GitHub Repo](https://github.com/HACC17/FidgetSpinners)
+
+The HRS App [GitHub Repo](https://github.com/HACC17/FidgetSpinners)
 
 
