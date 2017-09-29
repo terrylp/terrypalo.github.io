@@ -11,6 +11,7 @@ body {
   background: -webkit-linear-gradient(to top, #3A6073, #16222A);  
   background: linear-gradient(to top, #3A6073, #16222A); 
   background-attachment: fixed;
+  color: white;
 }
 
 // Customize the menubar color
@@ -22,4 +23,13 @@ body {
 .icon-color {
   // color: silver;
 }
+
+.ui.left.aligned.header {
+  color: white;
+}
+
+.ui.center.aligned.header {
+  color: white;
+}
+
 
