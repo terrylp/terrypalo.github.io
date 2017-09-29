@@ -51,6 +51,7 @@ Personal responsibilities to this project included:
 
 
 Complete details on our [project](https://hacc17.devpost.com/submissions)
+
 [GitHub Repo](https://github.com/HACC17/FidgetSpinners)
 
 
