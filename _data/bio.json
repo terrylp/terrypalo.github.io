@@ -51,6 +51,7 @@
       "keywords": [
         "Python",
         "JavaScript",
+        "Java",
         "C/C++",
         "Django",
         "Angular",
@@ -146,6 +147,18 @@
         "Refurbishing donated computers, which included troubleshooting, repairing hardware, installing software/operating systems, cleaning inside and out of computers.",
         "Traveled to clients’ homes to setup, install and troubleshoot computer hardware and software."
       ]
+    },
+    {
+      "organization": "Kitsap Computing Seniors",
+      "website": "http://www.kitsapcomputingseniors.org/",
+      "position": "Summer Intern",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-01",
+      "summary": "Assisted with general technology related inquiries.",
+      "highlights": [
+        "Refurbishing donated computers, which included troubleshooting, repairing hardware, installing software/operating systems, cleaning inside and out of computers.",
+        "Traveled to clients’ homes to setup, install and troubleshoot computer hardware and software."
+      ]
     }
   ],
   "awards": [
@@ -154,14 +167,14 @@
       "date": "2017",
       "awarder": "Hawaii Annual Code Challenge",
       "summary": "Team of 4 took on the Hawaii Revised Statutes challenge to interpret 20,000 statutes, and create a user friendly, scalable solution aimed at improving technology for the State of Hawaii.",
-      "Recap": "https://devpost.com/software/the-hrs-app"
+      "website": "https://devpost.com/software/the-hrs-app"
     },
     {
       "title": "1st Place IoT Solution & Best Use of AT&T M2X",
       "date": "2017",
       "awarder": "AT&T Developer Program",
       "summary": "Team of 4 that won 2/8 total awards. Gamified plant-monitoring system web application named Demeter. Made with Meteor that tracked data given by a Raspberry Pi through AT&T M2X.",
-      "Recap": "https://developer.att.com/blog/recap-hackathon-hawaii-2017"
+      "website": "https://developer.att.com/blog/recap-hackathon-hawaii-2017"
     },
     {
       "title": "Honorable Mention",
