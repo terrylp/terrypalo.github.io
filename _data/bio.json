@@ -137,15 +137,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Kitsap Computing Seniors",
-      "website": "http://www.kitsapcomputingseniors.org/",
-      "position": "Summer Intern",
-      "startDate": "2015-06-01",
-      "endDate": "2015-08-01",
-      "summary": "Assisted with general technology related inquiries.",
+      "organization": "OpenHRS",
+      "website": "https://github.com/OpenHRS",
+      "position": "Lead Developer",
+      "startDate": "2017-06-01",
+      "endDate": "Present",
+      "summary": "Open source project",
       "highlights": [
-        "Refurbishing donated computers, which included troubleshooting, repairing hardware, installing software/operating systems, cleaning inside and out of computers.",
-        "Traveled to clients’ homes to setup, install and troubleshoot computer hardware and software."
+        "Branched off the success of our hackathon solution.",
+        "Lead developer for the web and scraping application for retrieval of 20,000 statutes."
       ]
     },
     {
