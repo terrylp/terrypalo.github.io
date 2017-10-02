@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "",
-        "url": "https://www.linkedin.com/in/terry-palomares-236137133"
+        "username": "terry-palomares",
+        "url": "https://www.linkedin.com/in/terry-palomares"
       }
     ]
   },
@@ -35,14 +35,12 @@
     },
     {
       "name": "Web Development",
-      "keywords": [
+      "keywords": [       
       ]
     },
     {
       "name": "Game Development",
       "keywords": [
-        "Virtual Reality",
-        "Unity 3D"
       ]
     }
   ],
@@ -51,25 +49,23 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C/C++",
-        "C#",
-        "PHP",
-        "HTML/CSS",
-        "Java",
-        "Javascript",
         "Python",
-        "SQL"
+        "JavaScript",
+        "C/C++",
+        "Django",
+        "Angular",
+        "Node.js"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Windows",
-        "Linux",
         "Git/GitHub",
-        "Unity3D"
+        "Unity3D",
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Sketch"
       ]
     }
   ],
@@ -80,41 +76,61 @@
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "3.16",
       "courses": [
         "Algorithms",
-        "Discrete Mathematics for Computer Science I & II",
-        "Human Computer Interaction",
-        "Operating Systems", 
-        "Concurrent Programming",
+        "Operating Systems",
+        "Artificial Intelligence", 
         "Software Engineering",
+        "Concurrent Programming",
+        "Human Computer Interaction",     
         "Data Storage and Retrieval"
       ]
     }
   ],
   "work": [
+  {
+    "company": "Revacomm, Inc",
+    "position": "Part-time Software Developer",
+    "website": "http://www.revacomm.com/",
+    "startDate": "Aug 2017",
+    "endDate": "Present",
+    "highlights": [
+      "Created REST APIs with Django Rest Framework, and documentation to allow client developers to obtain paginated and secure, aggregated data.",
+      "Secured and authenticated REST APIs, and web applications using server side encryption as well as JSON Web Tokens."
+    ]
+  },
+  {
+    "company": "Fast Enterprises, LLC",
+    "position": "Implementation Consultant Intern",
+    "website": "https://www.fastenterprises.com/",
+    "startDate": "May 2017",
+    "endDate": "Aug 2017",
+    "highlights": [
+      "Expedited unit testing by 200% creating Python and bash scripts to easily manage and execute thousands of files.",
+      "VB.NET and MSSQL development on sensitive taxpayer data.",
+      "Designed data and created documentation to be used for front facing taxpayer tutorial videos."
+    ]
+  },
     {
       "company": "Revacomm, Inc",
       "position": "Software Development Intern",
       "website": "http://www.revacomm.com/",
-      "startDate": "2016-10-15",
-      "endDate": "Present",
-      "summary": "Web Development",
+      "startDate": "Oct 2016",
+      "endDate": "May 2017",
       "highlights": [
-        "Web scraping tooling for easy accessing information for clients",
-        "General taks regarding development of back end as well as front end systems."
+        "Development of a system that automated content population that resulted in a 150% speed increase.",
+        "Developed a scraper that produced high volume, accurate data with less than 2% error with Selenium and BeautifulSoup.",
+        "Designed, modeled, and developed a Django application that aggregated data per authenticated user and allowed sorting, searching and filtering."
       ]
     },
     {
       "company": "UH Manoa Electrical Engineering Department",
       "position": "Computer Systems and Networking Support Assistant",
       "website": "http://ee.hawaii.edu/",
-      "startDate": "2015-09-20",
-      "endDate": "2016-10-10",
-      "summary": "Systems Administrator Assistant",
+      "startDate": "Sept 2015",
+      "endDate": "Oct 2016",
       "highlights": [
-        "Maintain LAMP (Linux, Apache, MySQL, PHP) stack server for the Electrical Engineering Department website.",
-        "Support and repair laptops and desktops for students and faculty."
+        "Merged a LAMP stack server for the entire Electrical Engineering department to a newer server, and maintained it."
       ]
     }
   ],
@@ -133,6 +149,20 @@
     }
   ],
   "awards": [
+    {
+      "title": "2nd Place Overall Solution",
+      "date": "2017",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "Team of 4 took on the Hawaii Revised Statutes challenge to interpret 20,000 statutes, and create a user friendly, scalable solution aimed at improving technology for the State of Hawaii.",
+      "Recap": "https://devpost.com/software/the-hrs-app"
+    },
+    {
+      "title": "1st Place IoT Solution & Best Use of AT&T M2X",
+      "date": "2017",
+      "awarder": "AT&T Developer Program",
+      "summary": "Team of 4 that won 2/8 total awards. Gamified plant-monitoring system web application named Demeter. Made with Meteor that tracked data given by a Raspberry Pi through AT&T M2X.",
+      "Recap": "https://developer.att.com/blog/recap-hackathon-hawaii-2017"
+    },
     {
       "title": "Honorable Mention",
       "date": "2016",
