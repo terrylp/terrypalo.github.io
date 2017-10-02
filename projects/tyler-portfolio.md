@@ -33,7 +33,7 @@ Specific technologies:
 Check out Tyler's work and what I created at: http://tylerapuya.com/
 
 
-<img class="ui centered image" src="../images/tyler-front.png">
+<img class="ui centered image" src="../images/portfolio-front.png">
 
 
 
