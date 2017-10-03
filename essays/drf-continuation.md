@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "A Continuation on DRF"
-date: 2017-09-25
+date: 2017-10-02
 labels:
   - Django
   - DRF
