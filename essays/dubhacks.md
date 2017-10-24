@@ -51,18 +51,23 @@ We finished up with a prototype that was working as intended even though we had 
 Our project did surprisingly well compared to the other 48 teams that signed up for our particular challenge, and we were able to do a final presentation. We did our presentation, but unfortunately, we didn't win (but that's okay!). 
 
 <div class="ui grid">
-  <div class="four column row">
+  <div class="two column row">
     <div class="column">
-        <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/557/006/datas/gallery.jpg">
+        <img src="../images/carmadriven-1.png">
     </div>
     <div class="column">
-        <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/557/008/datas/gallery.jpg">
+        <img src="../images/carmadriven-2.png">
+    </div>
+  </div>
+</div>
+
+<div class="ui grid">
+  <div class="two column row">
+    <div class="column">
+        <img src="../images/carmadriven-3.png">
     </div>
     <div class="column">
-        <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/557/007/datas/gallery.jpg">
-    </div>
-    <div class="column">
-        <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/557/005/datas/gallery.jpg">
+        <img src="../images/carmadriven-4.png">
     </div>
   </div>
 </div>
