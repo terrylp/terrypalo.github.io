@@ -40,13 +40,13 @@ export class SampleService {
 ```
 and say, in this case it would return something like: 
 ```
-animals = `{
+{
 	"results" : [
 		"kangaroo", 
 		"chicken", 
 		"pig"
 	]
-}`
+}
 ```
 
 
