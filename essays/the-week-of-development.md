@@ -4,9 +4,8 @@ type: essay
 title: "A Week of Web Development"
 date: 2017-11-27
 labels:
+  - Reflection
   - Development
-  - Testing
-  - E2E
 ---
 
 ## Intro
@@ -33,9 +32,10 @@ Like I said earlier, you will proactively find solutions to these problems by le
 Typically, when I'm not necessarily learning anything new or especially when I've been working on the same project for a while I set aside personal goals for development to continue to strengthen my skill. This usually includes writing clean, and efficient code with clear documentation on how it works. Sometimes this can take a while so I try to set aside personal goals of writing *beautiful* code within a *reasonable* amount of time. I can easily get caught up trying to refactor code I have written in the past, by changing variable/function names that make more sense or even splitting logic to become more efficient.
 
 ## Other Thoughts
-I feel like one thing I've noticed with good developers is that they consistently try to get better at what they do no matter what they are doing. That is what I aim for usually when I'm developing, even if its something very minor that I am working on. I think any opportunity to develop something is also an opportunity to get better at something. 
+I feel like one thing I've noticed with good developers is that they consistently try to get better at what they do no matter what they are doing. That is what I aim for usually when I'm developing, even if it’s something very minor that I am working on. I think any opportunity to develop something is also an opportunity to get better at something. 
 
 <img class="ui medium centered image" src="https://media1.tenor.com/images/046c5cfdfb264975a4ed2bb10f71d778/tenor.gif">
+
 
 
 
