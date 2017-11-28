@@ -11,7 +11,7 @@ labels:
 ## Intro
 Changing up from what I usually talk about, where I usually find a piece of technology/paradigm that I use at work and analyze and elaborate about it, this week really felt just like an average week of development. It felt like an average week of development in the sense that I didn't really use any new technologies or practice any new paradigms of development. I wanted to talk about how the average week of development is for me, and what are my thoughts and goals for these kinds of weeks. 
 
-<img class="ui medium centered image" src="http://media0.giphy.com/media/aMs2phB9gvHji/giphy.gif">
+<img class="ui medium centered image" src="http://media.giphy.com/media/aMs2phB9gvHji/giphy.gif">
 
 ## The Average Week
 
