@@ -119,8 +119,8 @@
       "startDate": "Oct 2016",
       "endDate": "May 2017",
       "highlights": [
-        "Development of a system that automated content population that resulted in a 150% speed increase.",
-        "Developed a scraper that produced high volume, accurate data with less than 2% error with Selenium and BeautifulSoup.",
+        "Development of a system that automated content population that resulted in a 300% speed increase.",
+        "Developed a scraper that produced high volume, accurate data with less than 1% error with Selenium and BeautifulSoup.",
         "Designed, modeled, and developed a Django application that aggregated data per authenticated user and allowed sorting, searching and filtering."
       ]
     },
