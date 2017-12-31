@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project-black.jpg
+image: images/carmadriven-square.png
 title: "Carma Driven"
 permalink: projects/carma-driven
 date: 2017
