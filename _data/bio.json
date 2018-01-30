@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Terry Palomares",
-    "label": "Student",
+    "label": "Software Developer",
     "picture": "https://terrypalo.github.io/images/portfoli.jpg",
     "email": "terrylp@hawaii.edu",
     "phone": "808-753-8290",
     "website": "https://terrypalo.github.io",
-    "summary": "Motivated and creative student with a passion for Computer Science. Pursuing a BS in Computer Science at the University of Hawai'i at Manoa.",
+    "summary": "Motivated and creative student with a passion for Computer Science. Graduated with BS in Computer Science at the University of Hawai'i at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Ethereum Development",
       "keywords": [       
       ]
     },
     {
-      "name": "Game Development",
+      "name": "Financial Algorithms",
       "keywords": [
       ]
     }
@@ -55,6 +55,7 @@
         "C/C++",
         "Django",
         "Angular",
+        "React",
         "Node.js"
       ]
     },
@@ -76,7 +77,7 @@
       "area": "Computer Science (expected Fall, 2017)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
-      "endDate": "Present",
+      "endDate": "2017-12-16",
       "courses": [
         "Algorithms",
         "Operating Systems",
@@ -90,11 +91,21 @@
   ],
   "work": [
   {
+    "company": "Fast Enterprises, LLC",
+    "position": "Software Developer",
+    "website": "https://www.fastenterprises.com/",
+    "startDate": "Jan 2018",
+    "endDate": "Present",
+    "highlights": [
+      "Software implementation consulting for the Utah Driver/Vehicle Services project."
+    ]
+  },
+  {
     "company": "Revacomm, Inc",
     "position": "Part-time Software Developer",
     "website": "http://www.revacomm.com/",
     "startDate": "Aug 2017",
-    "endDate": "Present",
+    "endDate": "Dec 2017",
     "highlights": [
       "Created REST APIs with Django Rest Framework, and documentation to allow client developers to obtain paginated and secure, aggregated data.",
       "Secured and authenticated REST APIs, and web applications using server side encryption as well as JSON Web Tokens."
@@ -102,7 +113,7 @@
   },
   {
     "company": "Fast Enterprises, LLC",
-    "position": "Implementation Consultant Intern",
+    "position": "Software Development Intern",
     "website": "https://www.fastenterprises.com/",
     "startDate": "May 2017",
     "endDate": "Aug 2017",
